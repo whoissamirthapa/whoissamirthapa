@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<hr />
 
 
 <a href="https://github.com/jiyeoon" target="_blank">
@@ -18,9 +18,11 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
+
 <div id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
+
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
@@ -32,8 +34,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iamsamirthapa/)
 
+
+
 ### :fire: My Stats :
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thapasamirm577&theme=highcontrast&fire=DD2727)](https://git.io/streak-stats)
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thapasamirm577&layout=compact&theme=vision-friendly-dark&fire=DD2727)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
