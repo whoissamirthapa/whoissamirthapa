@@ -1,5 +1,5 @@
 ### Hi there 👋
-<hr />
+<br />
 
 
 <a href="https://github.com/jiyeoon" target="_blank">
@@ -37,9 +37,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 ### :fire: My Stats :
-<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thapasamirm577&theme=highcontrast&fire=DD2727)](https://git.io/streak-stats)
--->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thapasamirm577&layout=compact&theme=vision-friendly-dark&fire=DD2727)](https://github.com/anuraghazra/github-readme-stats)
 
 
