@@ -29,7 +29,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :seedling: Exploring New Technology.
 
-- :zap: In my free time, I  read tech articles.
+- :zap: In my free time, I  read tech articles and blogs.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iamsamirthapa/)
 
