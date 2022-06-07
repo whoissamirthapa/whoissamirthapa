@@ -40,7 +40,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thapasamirm577&theme=highcontrast&fire=DD2727)](https://git.io/streak-stats)
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thapasamirm577&count_private=true&theme=dark)](https://github.com/thapasamirm577/github-readme-stats)
-<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thapasamirm577&theme=dark&layout=compact)](https://github.com/thapasamirm577/github-readme-stats)
 
 
