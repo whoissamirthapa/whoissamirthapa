@@ -39,11 +39,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thapasamirm577&theme=highcontrast&fire=DD2727)](https://git.io/streak-stats)
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thapasamirm577&count_private=true&theme=dark)](https://github.com/thapasamirm577/github-readme-stats)
-
+<table><tr><td>
+[![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=thapasamirm577&count_private=true&theme=dark)](https://github.com/thapasamirm577/github-readme-stats)
+  </td>
+  <td>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thapasamirm577&theme=dark&layout=compact)](https://github.com/thapasamirm577/github-readme-stats)
-
-
+</td></tr>
+</table>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
