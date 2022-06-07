@@ -1,5 +1,4 @@
 ### Hi there 👋
-<br />
 
 
 <a href="https://github.com/thapasamirm577" target="_blank">
@@ -17,11 +16,11 @@
 <a href="https://twitter.com/thapasamirm577" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+<br />
 
 
-<div id="header">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200"/>
-</div>
+ ### Hello, I'm Jiyeon Lee!
+
 
 
 ### :woman_technologist: About Me :
