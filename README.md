@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 
 
 ### Hello, I'm Samir Thapa!
