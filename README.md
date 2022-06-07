@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### Hello, I'm Jiyeon Lee!
+### Hello, I'm Samir Thapa!
 
 
 <a href="https://github.com/thapasamirm577" target="_blank">
