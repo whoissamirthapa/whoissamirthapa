@@ -43,7 +43,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 </td><td valign="top" width="50%"  style="display:flex;align-items: center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thapasamirm577&theme=dark&layout=compact&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thapasamirm577&theme=dark&layout=compact&hide_border=true&count_private=true" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
