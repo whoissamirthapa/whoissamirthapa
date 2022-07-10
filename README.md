@@ -1,9 +1,3 @@
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=thapasamirm577&&style=flat-square" align="right" />
-</div>  
-
-<br />
-
 ## Hi There 👋
 
 
@@ -62,6 +56,10 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 </td></tr></table>  
 
+
+<!-- <div align="right">
+<img src="https://komarev.com/ghpvc/?username=thapasamirm577&&style=flat-square" align="right" />
+</div>   -->
 
 <!--
 ### :hammer_and_wrench: Languages and Tools :
