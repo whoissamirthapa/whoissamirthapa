@@ -48,11 +48,11 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 <table><tr><td valign="top" width="50%" style="display:flex;align-items: center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thapasamirm577&count_private=true&theme=dark&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=whoissamirthapa&count_private=true&theme=dark&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%"  style="display:flex;align-items: center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thapasamirm577&theme=dark&layout=compact&hide_border=true&count_private=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoissamirthapa&theme=dark&layout=compact&hide_border=true&count_private=true" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
