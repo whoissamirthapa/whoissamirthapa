@@ -1,0 +1,114 @@
+\documentclass[11pt,a4paper,sans]{moderncv}
+
+% Style & color
+\moderncvstyle{classic}
+\moderncvcolor{blue}
+
+\usepackage[utf8]{inputenc}
+\usepackage[scale=0.8]{geometry}
+\usepackage{enumitem}
+\usepackage{multicol}
+
+% Personal info
+\name{Samir}{Thapa}
+\title{Senior Software Engineer}
+\address{Kathmandu, Nepal}{}{}
+\phone[mobile]{+977~9800000000}
+\email{samir@example.com}
+\homepage{www.samirdev.com}
+\social[linkedin]{samirthapa}
+\social[github]{samirthapa}
+\photo[64pt][0.4pt]{example-image} % Optional: replace with your photo or comment out
+
+\begin{document}
+\makecvtitle
+
+% Summary
+\section{Professional Summary}
+Senior Software Engineer with over 9 years of experience architecting and developing robust web and cloud-native applications. Proficient in building scalable backend systems, leading cross-functional teams, and implementing DevOps practices. Known for delivering high-quality code, driving technical innovation, and mentoring engineers.
+
+% Technical Skills
+\section{Technical Skills}
+\cvitem{Languages}{JavaScript, TypeScript, Python, Go, Bash, SQL, Java}
+\cvitem{Frameworks}{Node.js, NestJS, Express, React, Next.js, Django}
+\cvitem{Databases}{PostgreSQL, MongoDB, MySQL, Redis, DynamoDB}
+\cvitem{Cloud}{AWS, GCP, Firebase, DigitalOcean}
+\cvitem{DevOps}{Docker, Kubernetes, Terraform, Jenkins, GitHub Actions}
+\cvitem{Testing}{Jest, Mocha, Cypress, Postman}
+\cvitem{Other}{GraphQL, REST, WebSockets, OAuth2, gRPC, Git, Linux}
+
+% Work Experience
+\section{Experience}
+\cventry{2020--Present}{Senior Software Engineer}{TechNova Inc.}{Kathmandu, Nepal}{}{
+\begin{itemize}[leftmargin=*]
+  \item Designed and developed microservices in Node.js and NestJS, deployed on Kubernetes clusters.
+  \item Migrated monolith application to a microservices-based architecture, reducing build times by 50\%.
+  \item Created Terraform modules for infrastructure provisioning on AWS.
+  \item Implemented centralized logging with ELK stack and monitoring with Prometheus and Grafana.
+  \item Mentored 6 junior developers, conducted code reviews, and held bi-weekly tech talks.
+\end{itemize}}
+
+\cventry{2017--2020}{Full-Stack Developer}{CodeWorks Ltd.}{Remote}{}{
+\begin{itemize}[leftmargin=*]
+  \item Built and maintained SaaS dashboards using React and REST APIs.
+  \item Led backend refactor to introduce GraphQL alongside existing REST interfaces.
+  \item Introduced containerization with Docker and managed CI/CD pipelines with Jenkins.
+  \item Created a design system with Storybook for frontend teams.
+\end{itemize}}
+
+\cventry{2014--2017}{Software Developer}{ByteForce Solutions}{Kathmandu, Nepal}{}{
+\begin{itemize}[leftmargin=*]
+  \item Developed and maintained internal CRM and ERP systems using Django and Vue.js.
+  \item Integrated payment gateways (Stripe, PayPal) into e-commerce systems.
+  \item Automated data reporting workflows using Python scripts and Airflow.
+\end{itemize}}
+
+% Education
+\section{Education}
+\cventry{2010--2014}{Bachelor of Engineering in Computer Science}{Tribhuvan University}{Kathmandu, Nepal}{}{
+Graduated with First Division. Final year project on distributed file storage using P2P networks.
+}
+
+% Certifications
+\section{Certifications}
+\cvitem{2024}{AWS Certified Solutions Architect – Professional}
+\cvitem{2023}{Certified Kubernetes Administrator (CKA)}
+\cvitem{2022}{Google Cloud Associate Cloud Engineer}
+\cvitem{2021}{Microsoft Certified: Azure Developer Associate}
+
+% Projects
+\section{Selected Projects}
+\cvitem{\textbf{DevDash}}{An internal dashboard for monitoring deployments, server metrics, and logs using NestJS, Vue.js, and Grafana.}
+\cvitem{\textbf{TaskOrbit}}{A project management SaaS platform using Next.js, GraphQL, and PostgreSQL. Integrated Stripe for billing.}
+\cvitem{\textbf{NewsClassifier}}{LSTM-based text classifier trained on GloVe embeddings to categorize news articles by topic. Built with PyTorch.}
+\cvitem{\textbf{OpenForum}}{A Reddit-style forum built on Firebase, with real-time updates and Markdown support.}
+
+% Leadership and Volunteering
+\section{Leadership and Volunteering}
+\cvitem{2023--Present}{Lead Organizer of Kathmandu DevFest, hosting over 500 developers annually.}
+\cvitem{2022--2024}{Mentor at Girls in Tech Nepal, guiding junior women in backend development.}
+\cvitem{2019--Present}{Maintainer of \texttt{open-k8s-lab}, an open-source Kubernetes learning environment.}
+
+% Talks and Presentations
+\section{Talks and Presentations}
+\cvitem{2024}{\textit{“Secure API Design with OAuth and JWT”}, DevSecCon Kathmandu.}
+\cvitem{2023}{\textit{“Scaling Microservices with Kubernetes”}, Google Developer Group Meetup.}
+\cvitem{2022}{\textit{“GraphQL in the Real World”}, Online DevConf APAC.}
+
+% Publications
+\section{Publications}
+\cvitem{2023}{\textbf{“Observability in Microservices: Tools and Practices”}, published in InfoQ.}
+\cvitem{2022}{\textbf{“Event-Driven Architecture in Node.js”}, published on Medium.}
+
+% Languages
+\section{Languages}
+\cvitemwithcomment{English}{Fluent}{Professional working proficiency}
+\cvitemwithcomment{Nepali}{Native speaker}{}
+\cvitemwithcomment{Hindi}{Conversational}{}
+
+% Interests
+\section{Interests}
+\cvitem{Tech}{Open-source, distributed systems, ethical hacking}
+\cvitem{Personal}{Hiking, photography, playing guitar}
+
+\end{document}
